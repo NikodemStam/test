@@ -10,6 +10,11 @@ def question():
     return "How are you?"
 
 
+def addition():
+    return 1 + 1
+
+
 print(greet())
 print(question())
 print(goodbye())
+print(addition())
